@@ -19,6 +19,6 @@
 body {
   color: rgb(var(--foreground-rgb));
   background: #202124;
-  font-size: 14px;
+  font-size: 13px;
   font-family: sans-serif;
 }
